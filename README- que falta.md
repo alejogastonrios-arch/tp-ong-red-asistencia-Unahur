@@ -1,0 +1,1 @@
+Buenas, creo que faltaria agregar al index un par de cositas, pense en algo relacionado a la ubicacion de la sede o sedes, no tiene porque ser una sola. Habria que agregar ademas de eso la ubicacion para que te lleve externamente sin salir de la pagina tambien.
