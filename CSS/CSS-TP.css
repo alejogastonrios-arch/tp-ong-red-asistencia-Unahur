@@ -4,10 +4,10 @@ h2{color: blue;}*/
 
 :root{
     --color-primario: #1A2B4A;
-    --color-acento:#028090;
+    --color-acento:#62979e;
     --color-texto:#1A1A1A;
-    --color-fondo:#120c36;
-    --color-teto-claro:#FFFFFF;
+    --color-fondo:#15225e;
+    --color-texto-claro:#FFFFFF;
     --fuente-principal: "Inter", sans-serif,
 
 }
@@ -31,7 +31,7 @@ body{
 }
 /*Tipografía*/
 h1, h2, h3{font-size: 2rem; color: var(--color-acento);}
-h2{ font-size: 1.50rem; color: var(--color-acento);}
+h2{ font-size: 1.50rem; color: var(--color-texto);}
 h3{font-size: 1.25rem; color: var(--color-acento);}
 p{margin-top: 1rem;}
 
