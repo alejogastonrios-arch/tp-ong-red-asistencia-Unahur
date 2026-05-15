@@ -30,8 +30,9 @@ body{
     padding: 0 1rem;
 }
 /*Tipografía*/
+h1 {text-align: center;}
 h1, h2, h3{font-size: 2rem; color: var(--color-acento);}
-h2{ font-size: 1.50rem; color: var(--color-texto);}
+h2{ font-size: 1.50rem; color: var(--color-texto); text-align: center;}
 h3{font-size: 1.25rem; color: var(--color-acento);}
 p{margin-top: 1rem;}
 
@@ -40,12 +41,14 @@ header{
     background-color: var(--color-fondo);
     color: var(--color-fondo);
     padding: 1rem 1.5 rem;
+    text-align: center;
 }
 /*Menú Navegación*/
 nav ul{
     list-style: none;
     display: flex;
     gap: 1.5rem;
+    justify-content: center;
 }
 nav a{
     color: var(--color-acento);
@@ -90,5 +93,5 @@ footer{
     color: var(--color-acento);
     padding: 1.5rem;
     margin-top: 10px;
-
+    text-align: center;
 }
